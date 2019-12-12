@@ -86,5 +86,5 @@ roslaunch ekf_localizer ekf_localizer.launch
 
 where `b_k` is the yaw-bias.
 
-## time delay model
+### time delay model
 <img src="./media/delay_model_eq.png" width="320">
